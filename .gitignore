@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Variáveis sensíveis
+.env
+
+# Logs
+*.log
+
+# Builds (se for React, Next, etc)
+build/
+dist/
+
+# Sistema operacional / IDE
+.DS_Store
+*.swp
+.vscode/
